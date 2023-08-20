@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-string[] semana = new string[7];
-semana[0] = "D"; semana[1] = "S"; semana[2] = "T";semana[3] = "Q"; semana[4] = "Q"; semana[5] = "S"; semana[6] = "S";
+string[] semana = {"Dom", "Seg", "Ter", "Qua", "Qui", "Sex", "Sab"};
+//semana[0] = "D"; semana[1] = "S"; semana[2] = "T";semana[3] = "Q"; semana[4] = "Q"; semana[5] = "S"; semana[6] = "S";
 double[] temp = new double[7];
 
 for (int i = 0; i < semana.Length; i++)
@@ -19,4 +19,5 @@ for (int i = 0; i < semana.Length; i++)
         System.Threading.Thread.Sleep(30);
         Console.Write("■");
     }
+    Console.Write($" - {temp[i]}°");
 }
