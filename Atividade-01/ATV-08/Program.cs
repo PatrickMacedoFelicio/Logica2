@@ -17,7 +17,6 @@ Console.WriteLine("-=-=-=-=-=-=-=-=- A soma de A e B -=-=-=-=-=-=-=-=-\n");
 for (int i = 0; i < A.Length; i++)
 {
     C[i] = A[i] + B[tam];
-    Console.WriteLine(B[tam]);
     Console.WriteLine($"> Soma de A[{A[i]}] + B[{B[tam]}] = C[{C[i]}]");
     tam--;
 }
