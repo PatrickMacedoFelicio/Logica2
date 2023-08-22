@@ -81,19 +81,25 @@ for (int i = 0; i < tam*2; i++)
     }
 }
 
-Console.WriteLine("\n-=-=-=-=-=-=-=-=-=-=- União de 10 Números em Ordem Crescente -=-=-=-=-=-=-=-=-=-=-=");
+Console.WriteLine("\n-=-=-=-=-=-=-=-=-=-=- União de 10 Números em Ordem Crescente -=-=-=-=-=-=-=-=-=-=-=\n");
 
+Console.ForegroundColor = ConsoleColor.Green;
 Console.Write("- Os valores inseridos em A foram: ");
+Console.ForegroundColor = ConsoleColor.White;
 for (int i = 0; i < A.Length; i++)
 {
     Console.Write($"{A[i]}, ");
 }
+Console.ForegroundColor = ConsoleColor.Green;
 Console.Write("\n- Os valores inseridos em B foram: ");
+Console.ForegroundColor = ConsoleColor.White;
 for (int i = 0; i < B.Length; i++)
 {
     Console.Write($"{B[i]}, ");
 }
+Console.ForegroundColor = ConsoleColor.Green;
 Console.Write("\n- A união dos Valores colocado em C na ordem crescete é: ");
+Console.ForegroundColor = ConsoleColor.White;
 for (int i = 0; i < C.Length; i++)
 {
     Console.Write($"{C[i]}, ");
