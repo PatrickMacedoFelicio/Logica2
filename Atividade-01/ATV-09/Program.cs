@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-int tam = 3, numA = 0, numB = tam, count = 1;
+int tam = 10, numA = 0, numB = tam, count = 1;
 int[] A = new int[tam], B = new int[tam], C = new int[tam*2];
 
 Console.WriteLine("-=-=-=-=-=-=-=-=-=-=- União de 10 Números em Ordem Crescente -=-=-=-=-=-=-=-=-=-=-=");
