@@ -1,0 +1,15 @@
+C:\Users\2023102060025\Documents\Logica2\Atividade-01\Array_28-08\bin\Debug\net7.0\Array_28-08.exe
+C:\Users\2023102060025\Documents\Logica2\Atividade-01\Array_28-08\bin\Debug\net7.0\Array_28-08.deps.json
+C:\Users\2023102060025\Documents\Logica2\Atividade-01\Array_28-08\bin\Debug\net7.0\Array_28-08.runtimeconfig.json
+C:\Users\2023102060025\Documents\Logica2\Atividade-01\Array_28-08\bin\Debug\net7.0\Array_28-08.dll
+C:\Users\2023102060025\Documents\Logica2\Atividade-01\Array_28-08\bin\Debug\net7.0\Array_28-08.pdb
+C:\Users\2023102060025\Documents\Logica2\Atividade-01\Array_28-08\obj\Debug\net7.0\Array_28-08.csproj.AssemblyReference.cache
+C:\Users\2023102060025\Documents\Logica2\Atividade-01\Array_28-08\obj\Debug\net7.0\Array_28-08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060025\Documents\Logica2\Atividade-01\Array_28-08\obj\Debug\net7.0\Array_28-08.AssemblyInfoInputs.cache
+C:\Users\2023102060025\Documents\Logica2\Atividade-01\Array_28-08\obj\Debug\net7.0\Array_28-08.AssemblyInfo.cs
+C:\Users\2023102060025\Documents\Logica2\Atividade-01\Array_28-08\obj\Debug\net7.0\Array_28-08.csproj.CoreCompileInputs.cache
+C:\Users\2023102060025\Documents\Logica2\Atividade-01\Array_28-08\obj\Debug\net7.0\Array_28-08.dll
+C:\Users\2023102060025\Documents\Logica2\Atividade-01\Array_28-08\obj\Debug\net7.0\refint\Array_28-08.dll
+C:\Users\2023102060025\Documents\Logica2\Atividade-01\Array_28-08\obj\Debug\net7.0\Array_28-08.pdb
+C:\Users\2023102060025\Documents\Logica2\Atividade-01\Array_28-08\obj\Debug\net7.0\Array_28-08.genruntimeconfig.cache
+C:\Users\2023102060025\Documents\Logica2\Atividade-01\Array_28-08\obj\Debug\net7.0\ref\Array_28-08.dll
