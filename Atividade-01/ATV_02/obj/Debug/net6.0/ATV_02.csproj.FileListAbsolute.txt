@@ -1,0 +1,15 @@
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-01\ATV_02\bin\Debug\net6.0\ATV_02.exe
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-01\ATV_02\bin\Debug\net6.0\ATV_02.deps.json
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-01\ATV_02\bin\Debug\net6.0\ATV_02.runtimeconfig.json
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-01\ATV_02\bin\Debug\net6.0\ATV_02.dll
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-01\ATV_02\bin\Debug\net6.0\ATV_02.pdb
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-01\ATV_02\obj\Debug\net6.0\ATV_02.csproj.AssemblyReference.cache
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-01\ATV_02\obj\Debug\net6.0\ATV_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-01\ATV_02\obj\Debug\net6.0\ATV_02.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-01\ATV_02\obj\Debug\net6.0\ATV_02.AssemblyInfo.cs
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-01\ATV_02\obj\Debug\net6.0\ATV_02.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-01\ATV_02\obj\Debug\net6.0\ATV_02.dll
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-01\ATV_02\obj\Debug\net6.0\refint\ATV_02.dll
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-01\ATV_02\obj\Debug\net6.0\ATV_02.pdb
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-01\ATV_02\obj\Debug\net6.0\ATV_02.genruntimeconfig.cache
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-01\ATV_02\obj\Debug\net6.0\ref\ATV_02.dll
