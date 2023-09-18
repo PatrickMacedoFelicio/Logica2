@@ -18,9 +18,27 @@ namespace ATV09
                 Console.Write($"--Digite o {i+1}° Número:\n>> ");
                 teste[i] = Convert.ToDouble(Console.ReadLine());
             }
-            ordem();
-            mult7();
-            Console.ReadKey();
+            int esco;
+            do
+            {
+                Console.WriteLine("\n-=-=-=-=-=-=- Escolha -=-=-=-=-=-=-");
+                Console.Write("\n-- Escolha o que você deseja acessar:\n>> ");
+                esco = Convert.ToInt32(Console.ReadLine());
+                switch (esco)
+                {
+                    case 1:
+                        ordem();
+                        break;
+                    case 2:
+                        mult7();
+                        break;
+                    default:
+                        Console.WriteLine("Escreva uma opção valida!");
+                        break;
+                }
+                Console.ReadKey();
+
+            } while (esco != 3); 
         }
 
         public static void ordem()
