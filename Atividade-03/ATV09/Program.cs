@@ -11,7 +11,7 @@ namespace ATV09
         static double[] teste;
         static void Main(string[] args)
         {
-            teste  = new double[5];
+            teste  = new double[30];
 
             for (int i = 0; i < teste.Length; i++)
             {
