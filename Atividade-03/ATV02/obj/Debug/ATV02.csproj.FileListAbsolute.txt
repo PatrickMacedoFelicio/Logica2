@@ -6,3 +6,11 @@ C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-03\ATV02\bin\Debug\A
 C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-03\ATV02\bin\Debug\ATV02.pdb
 C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-03\ATV02\obj\Debug\ATV02.exe
 C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-03\ATV02\obj\Debug\ATV02.pdb
+C:\Users\2023102060025\Documents\Logica2\Atividade-03\ATV02\bin\Debug\ATV02.exe.config
+C:\Users\2023102060025\Documents\Logica2\Atividade-03\ATV02\bin\Debug\ATV02.exe
+C:\Users\2023102060025\Documents\Logica2\Atividade-03\ATV02\bin\Debug\ATV02.pdb
+C:\Users\2023102060025\Documents\Logica2\Atividade-03\ATV02\obj\Debug\ATV02.csproj.AssemblyReference.cache
+C:\Users\2023102060025\Documents\Logica2\Atividade-03\ATV02\obj\Debug\ATV02.csproj.SuggestedBindingRedirects.cache
+C:\Users\2023102060025\Documents\Logica2\Atividade-03\ATV02\obj\Debug\ATV02.csproj.CoreCompileInputs.cache
+C:\Users\2023102060025\Documents\Logica2\Atividade-03\ATV02\obj\Debug\ATV02.exe
+C:\Users\2023102060025\Documents\Logica2\Atividade-03\ATV02\obj\Debug\ATV02.pdb

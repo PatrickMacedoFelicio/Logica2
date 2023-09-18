@@ -44,16 +44,25 @@ namespace ATV02
             {
                 Console.Write($"{numeros[i]} ");
             }
-        }
-            
+        }  
         public static void pares()
         {
-            // PARES
+            double[] pares = new double[numeros.Length];
+            int count = 0;
             for (int i = 0; i < numeros.Length; i++)
             {
                 if (numeros[i] % 2 == 0)
                 {
-                    Console.Write($"{numeros[i]} ");
+                    pares[count] = numeros[i];
+                    count++;
+                }
+            }
+            Console.WriteLine("");
+            for (int i = 0; i < pares.Length; i++)
+            {
+                if (pares[i] != 0)
+                {
+                    Console.Write($"{pares[i]} ");
                 }
             }
         }
