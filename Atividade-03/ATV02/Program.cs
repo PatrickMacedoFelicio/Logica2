@@ -9,10 +9,6 @@ namespace ATV02
     internal class Program
     {
         static double[] numeros;
-        //static double[] numOrdem;
-        static double[] numMult5;
-        static double[] numPares;
-        
         static void Main(string[] args)
         {
             Console.WriteLine("-=-=-=-=-=-=-=- Atividade 02 -=-=-=-=-=-=-=-");
@@ -25,35 +21,12 @@ namespace ATV02
                 Console.Write($"\n-- Digite o {i+1}° número:\n>> ");
                 numeros[i] = Convert.ToDouble(Console.ReadLine());
             }
-            //Console.Clear();
-            calculos();
+            //Console.Clear();            
             menuItens();
         }
 
-        public static void calculos()
+        public static void ordenar()
         {
-            // PARES
-            for (int i = 0; i < numeros.Length; i++)
-            {
-                numPares = new double[numeros.Length];
-                if ((numeros[i] % 2) == 0)
-                {
-                    int count = 0;
-                    numPares[i] = numeros[i];
-                    count++;
-                }
-            }
-            // MULTIPLO DE 5
-            for (int i = 0; i < numeros.Length; i++)
-            {
-                numMult5 = new double[numeros.Length];
-                if ((numeros[i] % 5) == 0)
-                {
-                    int count = 0;
-                    numMult5[count] = numeros[i];
-                    count++;
-                }
-            }
             // ORDENAR
             for (int i = 0; i < numeros.Length - 1; i++)
             {
@@ -62,9 +35,36 @@ namespace ATV02
                     if (numeros[i] > numeros[j])
                     {
                         double aux = numeros[i];
-                        numeros[i] = numeros[i];
+                        numeros[i] = numeros[j];
                         numeros[j] = aux;
                     }
+                }
+            }
+            for (int i = 0; i < numeros.Length; i++)
+            {
+                Console.Write($"{numeros[i]} ");
+            }
+        }
+            
+        public static void pares()
+        {
+            // PARES
+            for (int i = 0; i < numeros.Length; i++)
+            {
+                if (numeros[i] % 2 == 0)
+                {
+                    Console.Write($"{numeros[i]} ");
+                }
+            }
+        }
+
+        public static void mult5()
+        {
+            for (int i = 0; i < numeros.Length; i++)
+            {
+                if (numeros[i] % 5 == 0)
+                {
+                    Console.Write($"{numeros[i]} ");
                 }
             }
         }
@@ -82,20 +82,28 @@ namespace ATV02
                 switch (op)
                 {
                     case 1:
+                        Console.ForegroundColor = ConsoleColor.Yellow;
                         Console.WriteLine("-=-=-=-=-=- Ordem Crescente -=-=-=-=-=-\n");
-                        Console.Write("Os números em ordem foram: ");
-                        for (int i = 0; i < numeros.Length; i++)
-                        {
-                            Console.Write($"{numeros[i]} ");
-                        }
+                        Console.Write("Os números digitados em ordem ficam: ");
+                        ordenar();
+                        Console.WriteLine();
+                        Console.ForegroundColor = ConsoleColor.White;
                         break;
                     case 2:
+                        Console.ForegroundColor = ConsoleColor.Yellow;
                         Console.WriteLine("-=-=-=-=-=- Números Pares -=-=-=-=-=-\n");
-                        Console.Write("Os números em ordem foram: ");
-                        for (int i = 0; i < numPares.Length; i++)
-                        {
-                            Console.Write($"{numPares[i]} ");
-                        }
+                        Console.Write("Esses números digitados são par: ");
+                        pares();
+                        Console.WriteLine();
+                        Console.ForegroundColor = ConsoleColor.White;
+                        break;
+                    case 3:
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.WriteLine("-=-=-=-=-=- Números Múltiplos de 5 -=-=-=-=-=-\n");
+                        Console.Write("Esses números digitados são multiplos de 5: ");
+                        mult5();
+                        Console.WriteLine();
+                        Console.ForegroundColor = ConsoleColor.White;
                         break;
                     default:
                         Console.ForegroundColor = ConsoleColor.Red;
