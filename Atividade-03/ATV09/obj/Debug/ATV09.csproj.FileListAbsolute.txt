@@ -6,3 +6,11 @@ C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-03\ATV09\obj\Debug\A
 C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-03\ATV09\obj\Debug\ATV09.csproj.CoreCompileInputs.cache
 C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-03\ATV09\obj\Debug\ATV09.exe
 C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-03\ATV09\obj\Debug\ATV09.pdb
+C:\Users\2023102060025\Documents\Logica2\Atividade-03\ATV09\bin\Debug\ATV09.exe.config
+C:\Users\2023102060025\Documents\Logica2\Atividade-03\ATV09\bin\Debug\ATV09.exe
+C:\Users\2023102060025\Documents\Logica2\Atividade-03\ATV09\bin\Debug\ATV09.pdb
+C:\Users\2023102060025\Documents\Logica2\Atividade-03\ATV09\obj\Debug\ATV09.csproj.AssemblyReference.cache
+C:\Users\2023102060025\Documents\Logica2\Atividade-03\ATV09\obj\Debug\ATV09.csproj.SuggestedBindingRedirects.cache
+C:\Users\2023102060025\Documents\Logica2\Atividade-03\ATV09\obj\Debug\ATV09.csproj.CoreCompileInputs.cache
+C:\Users\2023102060025\Documents\Logica2\Atividade-03\ATV09\obj\Debug\ATV09.exe
+C:\Users\2023102060025\Documents\Logica2\Atividade-03\ATV09\obj\Debug\ATV09.pdb

@@ -11,7 +11,7 @@ namespace ATV09
         static double[] teste;
         static void Main(string[] args)
         {
-            teste  = new double[30];
+            teste  = new double[5];
 
             for (int i = 0; i < teste.Length; i++)
             {
@@ -22,21 +22,24 @@ namespace ATV09
             do
             {
                 Console.WriteLine("\n-=-=-=-=-=-=- Escolha -=-=-=-=-=-=-");
-                Console.Write("\n-- Escolha o que você deseja acessar:\n>> ");
+                Console.Write("\n-- Escolha o que você deseja acessar:\n[1] Numeros digitados em ORDEM\n[2] Quais são os números multiplos de 7 digitados\n[3] SAIR\n>> ");
                 esco = Convert.ToInt32(Console.ReadLine());
                 switch (esco)
                 {
                     case 1:
+                        Console.ForegroundColor = ConsoleColor.Yellow;
                         ordem();
+                        Console.ForegroundColor = ConsoleColor.White;
                         break;
                     case 2:
+                        Console.ForegroundColor = ConsoleColor.Yellow;
                         mult7();
+                        Console.ForegroundColor = ConsoleColor.White;
                         break;
                     default:
                         Console.WriteLine("Escreva uma opção valida!");
                         break;
                 }
-                Console.ReadKey();
 
             } while (esco != 3); 
         }
