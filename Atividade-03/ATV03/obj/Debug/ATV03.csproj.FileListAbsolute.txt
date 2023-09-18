@@ -1,0 +1,8 @@
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-03\ATV03\bin\Debug\ATV03.exe.config
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-03\ATV03\bin\Debug\ATV03.exe
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-03\ATV03\bin\Debug\ATV03.pdb
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-03\ATV03\obj\Debug\ATV03.csproj.AssemblyReference.cache
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-03\ATV03\obj\Debug\ATV03.csproj.SuggestedBindingRedirects.cache
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-03\ATV03\obj\Debug\ATV03.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-03\ATV03\obj\Debug\ATV03.exe
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\Atividade-03\ATV03\obj\Debug\ATV03.pdb
