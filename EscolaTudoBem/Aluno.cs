@@ -11,7 +11,7 @@ namespace EscolaTudoBem
         public string nome;
         public string matricula;
         public string curso;
-        public Aluno prox;
-        public Grade grade;
+        public Aluno? prox;
+        public Grade? grade;
     }
 }

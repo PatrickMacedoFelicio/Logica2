@@ -52,7 +52,7 @@ do
                 WriteLine("Qual é o valor do produto?");
                 novo.valorproduto[i] = ToDouble(ReadLine());
             }
-
+                
             totalMediaProd(novo.valorproduto);
 
             // 4 passo encadeamento da lista

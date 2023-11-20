@@ -61,7 +61,7 @@ do
                 if (inicio.prox == null)
                 {
                     lista = novo;
-                    lista.prox = lista;
+                    inicio.prox = lista;
                     lista.prox = null;
                 }
                 else
@@ -74,12 +74,12 @@ do
             break;
 
         case 2:
+            aux = inicio;
             Write("\n- Deseja fazer a CONSULTA por:\n[1] Nome\n[2] Matrícula\n>> ");
             int op1 = ToInt32(ReadLine());
             switch (op1)
             {
                 case 1:
-                    aux = inicio;
                     Write("\n- Digite o NOME para consultar:\n>> ");
                     string nome = ReadLine().ToLower();
                     bool veri = false;
@@ -101,6 +101,7 @@ do
                         {
                             veri = false;
                         }
+                        aux = aux.prox;
                     }
                     if (veri == false)
                     {
@@ -109,7 +110,6 @@ do
                     break;
 
                 case 2:
-                    aux = inicio;
                     Write("\n- Digite a MATRICULA para consultar:\n>> ");
                     string matricula = ReadLine().ToLower();
                     bool veri2 = false;
@@ -118,8 +118,8 @@ do
                         if (aux.matricula.ToLower() == matricula)
                         {
                             WriteLine($"\nNome: {aux.nome}");
-                            WriteLine($"Nome: {aux.matricula}");
-                            WriteLine($"Nome: {aux.curso}");
+                            WriteLine($"Matricula: {aux.matricula}");
+                            WriteLine($"Curso: {aux.curso}");
                             for (int i = 0; i < aux.grade.disciplina.Length; i++)
                             {
                                 WriteLine($"{i + 1}° Disciplina: {aux.grade.disciplina[i]}");
@@ -162,7 +162,25 @@ do
                 }
                 WriteLine("");
                 aux = aux.prox;
-              
+            }
+
+            string caminhho = @"C:\Users\Public\escola.txt";
+
+            using (StreamWriter sw = new StreamWriter(caminhho))
+            {
+                aux = inicio;
+                while (aux != null)
+                {
+                    sw.WriteLine($"\nNome: {aux.nome}");
+                    sw.WriteLine($"Nome: {aux.matricula}");
+                    sw.WriteLine($"Nome: {aux.curso}");
+                    for (int i = 0; i < aux.grade.disciplina.Length; i++)
+                    {
+                        sw.WriteLine($"{i + 1}° Disciplina: {aux.grade.disciplina[i]}");
+                    }
+                    sw.WriteLine("");
+                    aux = aux.prox;
+                }
             }
 
             break;
