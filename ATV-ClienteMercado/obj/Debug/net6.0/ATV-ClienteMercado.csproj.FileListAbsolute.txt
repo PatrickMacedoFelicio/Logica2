@@ -1,0 +1,15 @@
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\ATV-ClienteMercado\bin\Debug\net6.0\ATV-ClienteMercado.exe
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\ATV-ClienteMercado\bin\Debug\net6.0\ATV-ClienteMercado.deps.json
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\ATV-ClienteMercado\bin\Debug\net6.0\ATV-ClienteMercado.runtimeconfig.json
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\ATV-ClienteMercado\bin\Debug\net6.0\ATV-ClienteMercado.dll
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\ATV-ClienteMercado\bin\Debug\net6.0\ATV-ClienteMercado.pdb
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\ATV-ClienteMercado\obj\Debug\net6.0\ATV-ClienteMercado.csproj.AssemblyReference.cache
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\ATV-ClienteMercado\obj\Debug\net6.0\ATV-ClienteMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\ATV-ClienteMercado\obj\Debug\net6.0\ATV-ClienteMercado.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\ATV-ClienteMercado\obj\Debug\net6.0\ATV-ClienteMercado.AssemblyInfo.cs
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\ATV-ClienteMercado\obj\Debug\net6.0\ATV-ClienteMercado.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\ATV-ClienteMercado\obj\Debug\net6.0\ATV-ClienteMercado.dll
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\ATV-ClienteMercado\obj\Debug\net6.0\refint\ATV-ClienteMercado.dll
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\ATV-ClienteMercado\obj\Debug\net6.0\ATV-ClienteMercado.pdb
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\ATV-ClienteMercado\obj\Debug\net6.0\ATV-ClienteMercado.genruntimeconfig.cache
+C:\Users\patri\OneDrive\Documentos\Clones\Logica2\ATV-ClienteMercado\obj\Debug\net6.0\ref\ATV-ClienteMercado.dll
