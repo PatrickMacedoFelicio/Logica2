@@ -38,10 +38,13 @@ do
             end.cep = ReadLine();
             novo.endereco = end;
             // os produtos vetores
+
             WriteLine("Quantos itens o cliente tem?");
             int qtd = ToInt32(ReadLine());
+
             novo.nomeproduto = new string[qtd];
             novo.valorproduto = new double[qtd];
+
             for (int i = 0; i < qtd; i++)
             {
                 WriteLine("Qual é o nome do Produto?");
@@ -49,6 +52,7 @@ do
                 WriteLine("Qual é o valor do produto?");
                 novo.valorproduto[i] = ToDouble(ReadLine());
             }
+
             totalMediaProd(novo.valorproduto);
 
             // 4 passo encadeamento da lista
